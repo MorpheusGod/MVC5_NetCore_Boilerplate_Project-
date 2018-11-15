@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boilerplate NetCore MVC5 Project", "Boilerplate NetCore MVC5 Project\Boilerplate NetCore MVC5 Project.csproj", "{212898DA-0E68-4E98-8159-3EC65F2416CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212898DA-0E68-4E98-8159-3EC65F2416CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212898DA-0E68-4E98-8159-3EC65F2416CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212898DA-0E68-4E98-8159-3EC65F2416CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212898DA-0E68-4E98-8159-3EC65F2416CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30935291-98BF-49EA-9CAA-548E24DB91E8}
+	EndGlobalSection
+EndGlobal
